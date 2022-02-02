@@ -3,6 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Windows.Forms;
 
+/*  Author:         Allesandra Sams-Jones
+ *  Date:           2/2/2022
+ *  Description:    Assignment 5.1
+ */
+
 namespace Exponents
 {
     static class Program
