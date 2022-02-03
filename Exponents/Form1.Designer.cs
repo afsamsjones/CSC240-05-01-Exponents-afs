@@ -40,8 +40,9 @@
             this.UxInputTextBox.Location = new System.Drawing.Point(105, 65);
             this.UxInputTextBox.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.UxInputTextBox.Name = "UxInputTextBox";
-            this.UxInputTextBox.Size = new System.Drawing.Size(148, 26);
+            this.UxInputTextBox.Size = new System.Drawing.Size(137, 26);
             this.UxInputTextBox.TabIndex = 0;
+            this.UxInputTextBox.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // UxInputLabel
             // 
@@ -56,7 +57,7 @@
             // UxOutputLabel
             // 
             this.UxOutputLabel.AutoSize = true;
-            this.UxOutputLabel.Location = new System.Drawing.Point(115, 225);
+            this.UxOutputLabel.Location = new System.Drawing.Point(101, 224);
             this.UxOutputLabel.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.UxOutputLabel.Name = "UxOutputLabel";
             this.UxOutputLabel.Size = new System.Drawing.Size(0, 20);
@@ -76,7 +77,7 @@
             // 
             // UxResetButton
             // 
-            this.UxResetButton.Location = new System.Drawing.Point(120, 271);
+            this.UxResetButton.Location = new System.Drawing.Point(119, 283);
             this.UxResetButton.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.UxResetButton.Name = "UxResetButton";
             this.UxResetButton.Size = new System.Drawing.Size(112, 35);
