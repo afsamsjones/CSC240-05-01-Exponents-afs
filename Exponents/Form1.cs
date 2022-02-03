@@ -17,9 +17,9 @@ using System.Windows.Forms;
 
 namespace Exponents
 {
-    public partial class Form1 : Form
+    public partial class UxDemoForm : Form
     {
-        public Form1()
+        public UxDemoForm()
         {
             InitializeComponent();
         }
